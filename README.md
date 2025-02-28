@@ -22,7 +22,7 @@ Follow these steps to set up and run the project locally.
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/beer-app.git
+git clone https://github.com/Ankush007-cpu/Beer-Cards.git
 cd beer-app
 ```
 
