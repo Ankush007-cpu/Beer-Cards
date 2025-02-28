@@ -2,7 +2,7 @@
 
 A React-based beer collection app that fetches beer data from an API, displays it in a beautiful UI with TailwindCSS, and includes search functionality.
 
-![Beer App Preview](https://via.placeholder.com/800x400?text=Beer+App+Preview)
+![Beer App Preview](https://ankush007-cpu.github.io/Beer-Cards/)
 
 ---
 
